@@ -1,0 +1,118 @@
+body{
+	background-size: cover;
+}
+header{
+	height: auto;
+	display: flex;
+	flex-flow: column nowrap;
+	background-color: #ffffff;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+.main-icon{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+	padding-bottom: 100px;
+}
+.col-img-cel{
+	justify-content: center;
+}
+.col-2{
+	padding-top: 100px;
+}
+.col-2 p{
+	font-size: 100px;
+	text-align: left;
+}
+.col-2 img{
+	height: 150px;
+	width: 300px;
+	padding-top: 50px;
+}
+.section-2{
+	background:url("images/phone-2.a0e481df3d808370cf1d.jpg");
+	background-attachment: fixed;
+	width: auto;
+}
+.section-2{
+    font-size: 70px;
+    padding: 200px;
+    color: #B8B8B8;
+}
+.btn-light{
+	background-color: #F09801;
+	color: #ffffff;
+	border-radius: 50px;
+	width: 200px;
+	height: 70px;
+	border: 3px solid #ffffff;
+}
+.easy-to-use{
+	background-color: #005BA3;
+	width: auto;
+}
+.easy-to-use img{
+	width: auto;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.img-taxi{
+	background:url("images/taxi.jpg");
+	background-attachment: fixed;
+	height: 1000px;
+	
+}
+.partner{
+	padding: 200px;
+}
+.partner p{
+	font-size: 50px;
+	color: #727277
+	padding-top: 40px;
+	font-weight: lighter;
+}
+form{
+	border: 1px solid #757575;
+	border-radius: 25px;
+}
+.form-control{
+	color: #757575;
+	background-color: #ffffff;
+	border: none;
+	height: 80px;
+	width: 200px;
+}
+.button-row{
+	margin-top: 40px;
+	justify-content: center;
+}
+.button-row img{
+	width: 80px;
+	height: 80px;
+	background-color: #6895C4;
+	border-radius: 100%;
+	padding: 15px;
+}
+.btn-primary{
+	width: 250px;
+	background-color: #6895C4;
+	border-radius: 50px;
+	border: none;
+	font-size: 50px;
+}
+footer{
+	background-color: #005EA7;
+	font-size: 15px;
+	color: #ffffff;
+	font-weight: bold;
+	padding: 100px;
+}
+footer img{
+	width: 50px
+}
+footer a{
+	color: #ffffff;
+	text-decoration: none;
+}
